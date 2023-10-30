@@ -1,1 +1,2 @@
-# Tippy is an simple Android application that calculates the users Tip when the users posts an image of the bill.
+# Tippy 
+simple Android application that calculates the user's Tip when the user posts an image of the bill.
